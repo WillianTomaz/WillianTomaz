@@ -2,6 +2,7 @@
 
 🔭 I’m currently working with [DevOps] <br />
 💬 Ask me about literally anything, I would be glad to help (if I can ✨) <br />
+<!-- 📫 How to reach me: Shoot me an email at <a href="mailto:meuemail@hotmail.com"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=meuemail@hotmail.com&labelColor=lightgrey&height=30&color=0072c6" alt="meuemail@hotmail.com" valign="middle"></a> <br /> -->
 
 #### Connect with me
 
