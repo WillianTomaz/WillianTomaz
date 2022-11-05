@@ -1,27 +1,36 @@
-### Hi there, I'm Willian 👋
+## about.me
+#### Hi there, I'm Willian 👋
 
 🔭 I’m currently working with [DevOps] <br />
 💬 Ask me about literally anything, I would be glad to help (if I can ✨) <br />
-<!-- 📫 How to reach me: Shoot me an email at <a href="mailto:meuemail@hotmail.com"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=meuemail@hotmail.com&labelColor=lightgrey&height=30&color=0072c6" alt="meuemail@hotmail.com" valign="middle"></a> <br /> -->
 
-### Connect with me:
 
-[![LinkedIn](https://avatars.githubusercontent.com/u/357098?s=26&v=4)](https://www.linkedin.com/in/willian-tomaz-de-lima-a1aa81b6/)
-<!-- [![Twitter](https://avatars.githubusercontent.com/u/50278?s=26&v=4)](https://twitter.com/willian-tomaz) -->
+## social && contact
+#### Connect with me:
+<p align="justify">
+  <a href="https://www.linkedin.com/in/willian-tomaz-de-lima-a1aa81b6/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=LinkedIn"/>
+  </a>
+</p>
 
-### Languages and Tools:
 
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Vues" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+## techs && skills
+<p align="justify">
+  <a href="https://gist.github.com/TomazWill">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon-%230d1117.svg?style=for-the-badge&logo=AmazonAWS"/> 
+    <img alt="Java" src="https://img.shields.io/badge/Java%20Spring-%230d1117.svg?style=for-the-badge&logo=Spring"/> 
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230d1117.svg?style=for-the-badge&logo=Docker"/> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%230d1117.svg?style=for-the-badge&logo=Git"/> 
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%230d1117.svg?style=for-the-badge&logo=Javascript"/> 
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230d1117.svg?style=for-the-badge&logo=VisualStudioCode"/> 
+    <img alt="VueJs" src="https://img.shields.io/badge/VueJs-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-%230d1117.svg?style=for-the-badge&logo=Python"/> 
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-%230d1117.svg?style=for-the-badge&logo=Terraform"/> 
+    <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%230d1117.svg?style=for-the-badge&logo=Kubernetes"/> 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-%230d1117.svg?style=for-the-badge&logo=Linux"/>
+  </a>
+</p>
+
 
 <br />
 <br />
