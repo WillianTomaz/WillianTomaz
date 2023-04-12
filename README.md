@@ -16,7 +16,7 @@
 
 ## techs && skills
 <p align="justify">
-  <a href="https://gist.github.com/TomazWill">
+  <a href="https://gist.github.com/WillTomaz">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon-%230d1117.svg?style=for-the-badge&logo=AmazonAWS"/> 
     <img alt="Java" src="https://img.shields.io/badge/Java%20Spring-%230d1117.svg?style=for-the-badge&logo=Spring"/> 
     <img alt="Docker" src="https://img.shields.io/badge/Docker-%230d1117.svg?style=for-the-badge&logo=Docker"/> 
@@ -34,8 +34,8 @@
 
 ## 📊 GitHub Stats
 <p align="justify">
-  <a href="https://github.com/TomazWill">
-    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=TomazWill&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomazWill&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/WillTomaz">
+    <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillTomaz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillTomaz&layout=compact&langs_count=7&theme=vue-dark"/>
   </a>
 </p>
