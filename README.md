@@ -39,3 +39,12 @@
     <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&layout=compact&langs_count=7&theme=vue-dark"/>
   </a>
 </p>
+
+<hr></hr>
+
+### 🎁 Support
+<p dir="auto">
+  <a href="https://www.buymeacoffee.com/williantomaz" rel="nofollow"> 
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WillianTomaz" style="max-width: 100%;">
+  </a>
+</p>
