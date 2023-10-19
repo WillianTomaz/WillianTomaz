@@ -1,11 +1,11 @@
-## about.me
+## About.me
 #### Hi there, I'm Willian 👋
 
 🔭 I’m currently working with [DevOps] <br />
 💬 Ask me about literally anything, I would be glad to help (if I can ✨) <br />
 
 
-## social && contact
+## 🤝 Social && Contact
 #### Connect with me:
 <p align="justify">
   <a href="https://www.linkedin.com/in/willian-t-a1aa81b6/">
@@ -14,7 +14,7 @@
 </p>
 
 
-## techs && skills
+## 👨‍💻 Techs && Skills
 <p align="justify">
   <a href="https://gist.github.com/WillianTomaz">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon-%230d1117.svg?style=for-the-badge&logo=AmazonAWS"/> 
@@ -32,7 +32,7 @@
 </p>
 
 
-## 📊 GitHub Stats
+## 📊 Github Stats
 <p align="justify">
   <a href="https://github.com/WillianTomaz">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
@@ -40,9 +40,8 @@
   </a>
 </p>
 
-<hr></hr>
 
-### 🎁 Support
+## 🎁 Support
 <p dir="auto">
   <a href="https://www.buymeacoffee.com/williantomaz" rel="nofollow"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WillianTomaz" style="max-width: 100%;">
