@@ -41,7 +41,7 @@
 </p>
 
 
-## 🎁 Support
+## 🎁 Donate
 <p dir="auto">
   <a href="https://www.buymeacoffee.com/williantomaz" rel="nofollow"> 
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="WillianTomaz" style="max-width: 100%;">
