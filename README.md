@@ -39,7 +39,7 @@
     <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
   </a>
   <a href="https://github.com/WillianTomaz">
-    <img alt="WillianTomaz github views" align="center" src="https://komarev.com/ghpvc/?username=WillianTomaz&label=Profile%20views&color=0e75b6&style=for-the-badge">
+    <img alt="WillianTomaz github views" align="center" src="https://komarev.com/ghpvc/?username=WillianTomaz&label=Profile%20views&color=3da47a&style=for-the-badge">
   </a>
 </p>
 
