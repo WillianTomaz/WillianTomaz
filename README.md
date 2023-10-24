@@ -35,7 +35,7 @@
 ## 📊 Github Stats
 <p align="justify">
   <a href="https://github.com/WillianTomaz">
-    <img alt="WillianTomaz github stats" align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />
+    <img alt="WillianTomaz github stats" align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />  <!-- show_icons=true -->
     <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
   </a>
 </p>
