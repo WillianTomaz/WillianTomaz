@@ -33,19 +33,17 @@
 
 
 ## 📊 Github Stats
-<p align="justify">
-  <a href="https://github.com/WillianTomaz">
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" />
-    </picture>
-    <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" />
-    </picture>
-  </a>
+<p>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" />
+  </picture>
   <a href="https://github.com/WillianTomaz">
     <img alt="WillianTomaz github views" align="center" src="https://komarev.com/ghpvc/?username=WillianTomaz&label=Profile%20views&color=3da47a&style=for-the-badge">
   </a>
