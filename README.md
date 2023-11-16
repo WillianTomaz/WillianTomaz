@@ -35,8 +35,16 @@
 ## 📊 Github Stats
 <p align="justify">
   <a href="https://github.com/WillianTomaz">
-    <img alt="WillianTomaz github stats" align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true" />  <!-- show_icons=true -->
-    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&layout=compact&langs_count=7&theme=vue-dark&hide_border=true"/>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" />
+    </picture>
+    <picture>
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianTomaz&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=WillianTomaz&show_icons=true" />
+    </picture>
   </a>
   <a href="https://github.com/WillianTomaz">
     <img alt="WillianTomaz github views" align="center" src="https://komarev.com/ghpvc/?username=WillianTomaz&label=Profile%20views&color=3da47a&style=for-the-badge">
