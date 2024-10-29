@@ -1,7 +1,7 @@
 ## About.me
 #### Hi there, I'm Willian 👋
 
-🔭 I’m currently working with [DevOps] <br />
+🔭 I am currently working as a [Software Developer, SRE, DevOpsDevOps] <br />
 💬 Ask me about literally anything, I would be glad to help (if I can ✨) <br />
 
 
