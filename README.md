@@ -8,11 +8,10 @@
 ## 🤝 Social && Contact
 #### Connect with me:
 <p align="justify">
-  <a href="https://www.linkedin.com/in/willian-t-a1aa81b6/">
+  <a href="https://www.linkedin.com/in/willian-l-a1aa81b6/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=LinkedIn"/>
   </a>
 </p>
-
 
 ## 👨‍💻 Techs && Skills
 <p align="justify">
